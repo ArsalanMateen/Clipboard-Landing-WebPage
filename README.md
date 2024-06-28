@@ -18,4 +18,4 @@ If you have a moment, we would greatly appreciate your feedback on our work<br>
 Please take a moment to review our webpage : https://clipboard-preview.netlify.app <br> 
 Your time and insights are highly valued<br><br>
 
-![image loading](./Clipboard%20Landing%20%20Page.png)
+![image loading](./Clipboard%20Landing%20Page.png)
